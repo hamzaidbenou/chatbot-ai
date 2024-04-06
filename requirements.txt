@@ -1,0 +1,11 @@
+langchain
+chainlit
+langchain_openai
+langchain-community
+PyPDF2
+tiktoken
+redis
+docx2txt
+unstructured[all-docs]
+transformers
+faiss-cpu
